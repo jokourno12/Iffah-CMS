@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/iffah_cms.props" />
+</Project>

@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/assets/css/style.min.css",
+      "PackagePath": "staticwebassets/assets/css/style.min.css"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/0abc68a9-6c64-40b4-9eb4-e0976d712c1c/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg",
+      "PackagePath": "staticwebassets/uploads/0abc68a9-6c64-40b4-9eb4-e0976d712c1c/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/0abc68a9-6c64-40b4-9eb4-e0976d712c1c/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_1100x450.jpg",
+      "PackagePath": "staticwebassets/uploads/0abc68a9-6c64-40b4-9eb4-e0976d712c1c/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_1100x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/292eff07-f009-4f45-b0c2-7b981205390e/bird-s-eye-view-photography-of-lighted-city-3573383.jpg",
+      "PackagePath": "staticwebassets/uploads/292eff07-f009-4f45-b0c2-7b981205390e/bird-s-eye-view-photography-of-lighted-city-3573383.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766.jpg",
+      "PackagePath": "staticwebassets/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_1920x400.jpg",
+      "PackagePath": "staticwebassets/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_1920x400.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_446x220.jpg",
+      "PackagePath": "staticwebassets/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_446x220.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_540x200.jpg",
+      "PackagePath": "staticwebassets/uploads/2ed42262-bf9c-4947-b589-904a46ed0979/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_540x200.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/39929eb3-c837-40d8-a4c0-feafef33bfe0/person-looking-at-phone-and-at-macbook-pro-1181244.jpg",
+      "PackagePath": "staticwebassets/uploads/39929eb3-c837-40d8-a4c0-feafef33bfe0/person-looking-at-phone-and-at-macbook-pro-1181244.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/40d8e45b-10e5-4472-b69a-bdb363e84d00/diverse-group-of-colleagues-having-meditation-together-3860619.jpg",
+      "PackagePath": "staticwebassets/uploads/40d8e45b-10e5-4472-b69a-bdb363e84d00/diverse-group-of-colleagues-having-meditation-together-3860619.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/40d8e45b-10e5-4472-b69a-bdb363e84d00/diverse-group-of-colleagues-having-meditation-together-3860619_1100x450.jpg",
+      "PackagePath": "staticwebassets/uploads/40d8e45b-10e5-4472-b69a-bdb363e84d00/diverse-group-of-colleagues-having-meditation-together-3860619_1100x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/421a1608-7645-416f-b9c1-fc61e1b580ac/person-looking-at-phone-and-at-macbook-pro-1181244.jpg",
+      "PackagePath": "staticwebassets/uploads/421a1608-7645-416f-b9c1-fc61e1b580ac/person-looking-at-phone-and-at-macbook-pro-1181244.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/4e16db96-5fe4-4a93-b103-01aeaacbcca3/smiling-woman-working-in-office-with-coworkers-3860641.jpg",
+      "PackagePath": "staticwebassets/uploads/4e16db96-5fe4-4a93-b103-01aeaacbcca3/smiling-woman-working-in-office-with-coworkers-3860641.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/4e16db96-5fe4-4a93-b103-01aeaacbcca3/smiling-woman-working-in-office-with-coworkers-3860641_1100x450.jpg",
+      "PackagePath": "staticwebassets/uploads/4e16db96-5fe4-4a93-b103-01aeaacbcca3/smiling-woman-working-in-office-with-coworkers-3860641_1100x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/4e16db96-5fe4-4a93-b103-01aeaacbcca3/smiling-woman-working-in-office-with-coworkers-3860641_1140x450.jpg",
+      "PackagePath": "staticwebassets/uploads/4e16db96-5fe4-4a93-b103-01aeaacbcca3/smiling-woman-working-in-office-with-coworkers-3860641_1140x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/6852aec6-1926-4130-9d70-9ced83a30e0b/cute-business-kids-working-on-project-together-surfing-3874121.jpg",
+      "PackagePath": "staticwebassets/uploads/6852aec6-1926-4130-9d70-9ced83a30e0b/cute-business-kids-working-on-project-together-surfing-3874121.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/6852aec6-1926-4130-9d70-9ced83a30e0b/cute-business-kids-working-on-project-together-surfing-3874121_1920x400.jpg",
+      "PackagePath": "staticwebassets/uploads/6852aec6-1926-4130-9d70-9ced83a30e0b/cute-business-kids-working-on-project-together-surfing-3874121_1920x400.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/6852aec6-1926-4130-9d70-9ced83a30e0b/cute-business-kids-working-on-project-together-surfing-3874121_448x200.jpg",
+      "PackagePath": "staticwebassets/uploads/6852aec6-1926-4130-9d70-9ced83a30e0b/cute-business-kids-working-on-project-together-surfing-3874121_448x200.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/773ecd98-b626-4309-82f2-d3085462e87b/cute-business-kids-working-on-project-together-surfing-3874121.jpg",
+      "PackagePath": "staticwebassets/uploads/773ecd98-b626-4309-82f2-d3085462e87b/cute-business-kids-working-on-project-together-surfing-3874121.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/773ecd98-b626-4309-82f2-d3085462e87b/cute-business-kids-working-on-project-together-surfing-3874121_1920x400.jpg",
+      "PackagePath": "staticwebassets/uploads/773ecd98-b626-4309-82f2-d3085462e87b/cute-business-kids-working-on-project-together-surfing-3874121_1920x400.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/773ecd98-b626-4309-82f2-d3085462e87b/cute-business-kids-working-on-project-together-surfing-3874121_448x200.jpg",
+      "PackagePath": "staticwebassets/uploads/773ecd98-b626-4309-82f2-d3085462e87b/cute-business-kids-working-on-project-together-surfing-3874121_448x200.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/7c917e32-68a4-4000-be21-b610a5ac9431/bird-s-eye-view-photography-of-lighted-city-3573383.jpg",
+      "PackagePath": "staticwebassets/uploads/7c917e32-68a4-4000-be21-b610a5ac9431/bird-s-eye-view-photography-of-lighted-city-3573383.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/8ef8b194-e6f1-4c37-bbcb-199b65f20027/diverse-group-of-colleagues-having-meditation-together-3860619.jpg",
+      "PackagePath": "staticwebassets/uploads/8ef8b194-e6f1-4c37-bbcb-199b65f20027/diverse-group-of-colleagues-having-meditation-together-3860619.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/8ef8b194-e6f1-4c37-bbcb-199b65f20027/diverse-group-of-colleagues-having-meditation-together-3860619_1100x450.jpg",
+      "PackagePath": "staticwebassets/uploads/8ef8b194-e6f1-4c37-bbcb-199b65f20027/diverse-group-of-colleagues-having-meditation-together-3860619_1100x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/9120bb2b-18ba-49e6-8278-7ef63fa3e373/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg",
+      "PackagePath": "staticwebassets/uploads/9120bb2b-18ba-49e6-8278-7ef63fa3e373/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/9120bb2b-18ba-49e6-8278-7ef63fa3e373/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_1100x450.jpg",
+      "PackagePath": "staticwebassets/uploads/9120bb2b-18ba-49e6-8278-7ef63fa3e373/cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_1100x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/9ca976cf-c9a9-493a-9e34-fc0ca16a2342/man-in-red-jacket-standing-on-the-stairs-4390730.jpg",
+      "PackagePath": "staticwebassets/uploads/9ca976cf-c9a9-493a-9e34-fc0ca16a2342/man-in-red-jacket-standing-on-the-stairs-4390730.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/9ca976cf-c9a9-493a-9e34-fc0ca16a2342/man-in-red-jacket-standing-on-the-stairs-4390730_446x220.jpg",
+      "PackagePath": "staticwebassets/uploads/9ca976cf-c9a9-493a-9e34-fc0ca16a2342/man-in-red-jacket-standing-on-the-stairs-4390730_446x220.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/9ca976cf-c9a9-493a-9e34-fc0ca16a2342/man-in-red-jacket-standing-on-the-stairs-4390730_540x200.jpg",
+      "PackagePath": "staticwebassets/uploads/9ca976cf-c9a9-493a-9e34-fc0ca16a2342/man-in-red-jacket-standing-on-the-stairs-4390730_540x200.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/bec4ec55-a4a3-4147-b8fa-187aec17d9f6/concentrated-little-kids-taking-notes-in-organizer-and-3874109.jpg",
+      "PackagePath": "staticwebassets/uploads/bec4ec55-a4a3-4147-b8fa-187aec17d9f6/concentrated-little-kids-taking-notes-in-organizer-and-3874109.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/bec4ec55-a4a3-4147-b8fa-187aec17d9f6/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1110x624.jpg",
+      "PackagePath": "staticwebassets/uploads/bec4ec55-a4a3-4147-b8fa-187aec17d9f6/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1110x624.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/bec4ec55-a4a3-4147-b8fa-187aec17d9f6/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1140x450.jpg",
+      "PackagePath": "staticwebassets/uploads/bec4ec55-a4a3-4147-b8fa-187aec17d9f6/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1140x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e190ade5-b716-49d0-81f8-c6273c62215f/smiling-woman-working-in-office-with-coworkers-3860641.jpg",
+      "PackagePath": "staticwebassets/uploads/e190ade5-b716-49d0-81f8-c6273c62215f/smiling-woman-working-in-office-with-coworkers-3860641.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e190ade5-b716-49d0-81f8-c6273c62215f/smiling-woman-working-in-office-with-coworkers-3860641_1100x450.jpg",
+      "PackagePath": "staticwebassets/uploads/e190ade5-b716-49d0-81f8-c6273c62215f/smiling-woman-working-in-office-with-coworkers-3860641_1100x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e190ade5-b716-49d0-81f8-c6273c62215f/smiling-woman-working-in-office-with-coworkers-3860641_1140x450.jpg",
+      "PackagePath": "staticwebassets/uploads/e190ade5-b716-49d0-81f8-c6273c62215f/smiling-woman-working-in-office-with-coworkers-3860641_1140x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766.jpg",
+      "PackagePath": "staticwebassets/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_1920x400.jpg",
+      "PackagePath": "staticwebassets/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_1920x400.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_446x220.jpg",
+      "PackagePath": "staticwebassets/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_446x220.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_540x200.jpg",
+      "PackagePath": "staticwebassets/uploads/e68eb6ac-a18c-48a9-8600-2b0750fb829d/woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_540x200.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e844f065-1f07-4c0f-a3aa-b6cafa625e61/concentrated-little-kids-taking-notes-in-organizer-and-3874109.jpg",
+      "PackagePath": "staticwebassets/uploads/e844f065-1f07-4c0f-a3aa-b6cafa625e61/concentrated-little-kids-taking-notes-in-organizer-and-3874109.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e844f065-1f07-4c0f-a3aa-b6cafa625e61/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1110x624.jpg",
+      "PackagePath": "staticwebassets/uploads/e844f065-1f07-4c0f-a3aa-b6cafa625e61/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1110x624.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/e844f065-1f07-4c0f-a3aa-b6cafa625e61/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1140x450.jpg",
+      "PackagePath": "staticwebassets/uploads/e844f065-1f07-4c0f-a3aa-b6cafa625e61/concentrated-little-kids-taking-notes-in-organizer-and-3874109_1140x450.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/f8c193fe-3310-4246-b1c8-5ce47035368d/man-in-red-jacket-standing-on-the-stairs-4390730.jpg",
+      "PackagePath": "staticwebassets/uploads/f8c193fe-3310-4246-b1c8-5ce47035368d/man-in-red-jacket-standing-on-the-stairs-4390730.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/f8c193fe-3310-4246-b1c8-5ce47035368d/man-in-red-jacket-standing-on-the-stairs-4390730_446x220.jpg",
+      "PackagePath": "staticwebassets/uploads/f8c193fe-3310-4246-b1c8-5ce47035368d/man-in-red-jacket-standing-on-the-stairs-4390730_446x220.jpg"
+    },
+    {
+      "Id": "/home/enigma/Desktop/s(a)elor/cms/piranha/wwwroot/uploads/f8c193fe-3310-4246-b1c8-5ce47035368d/man-in-red-jacket-standing-on-the-stairs-4390730_540x200.jpg",
+      "PackagePath": "staticwebassets/uploads/f8c193fe-3310-4246-b1c8-5ce47035368d/man-in-red-jacket-standing-on-the-stairs-4390730_540x200.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.iffah_cms.props",
+      "PackagePath": "build\\iffah_cms.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.iffah_cms.props",
+      "PackagePath": "buildMultiTargeting\\iffah_cms.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.iffah_cms.props",
+      "PackagePath": "buildTransitive\\iffah_cms.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.iffah_cms.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

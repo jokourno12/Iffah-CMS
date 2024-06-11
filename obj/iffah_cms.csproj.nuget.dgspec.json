@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/enigma/Desktop/s(a)elor/cms/piranha/iffah_cms.csproj": {}
+  },
+  "projects": {
+    "/home/enigma/Desktop/s(a)elor/cms/piranha/iffah_cms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/enigma/Desktop/s(a)elor/cms/piranha/iffah_cms.csproj",
+        "projectName": "iffah_cms",
+        "projectPath": "/home/enigma/Desktop/s(a)elor/cms/piranha/iffah_cms.csproj",
+        "packagesPath": "/home/enigma/.nuget/packages/",
+        "outputPath": "/home/enigma/Desktop/s(a)elor/cms/piranha/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/enigma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Piranha": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.AspNetCore": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.AspNetCore.Identity.SQLServer": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.AspNetCore.Identity.SQLite": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.AttributeBuilder": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.Data.EF.SQLServer": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.Data.EF.SQLite": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.ImageSharp": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.Local.FileStorage": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.Manager": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.Manager.LocalAuth": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Piranha.Manager.TinyMCE": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
